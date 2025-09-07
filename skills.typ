@@ -1,2 +1,2 @@
-- *Proficient:* JavaScript, Python, C/C++, HTML/CSS, Java, Bash, R, Flutter, Dart
-- *Technologies*: React, Astro, Svelte, Tailwind CSS, Git, UNIX, Docker, Caddy, NGINX, Google Cloud Platform
+- *Fields:* Backend Engineering, Full Stack Engineering, Systems Architecture, Cloud Computing and Architecture (AWS), AI Engineering (LLMs and ML models), DevOps.
+- *Technologies*: Typescript, Node.js, React, Java, Python, AWS, SQL (Postgres, SQLite, etc), NoSQL (DynamoDB, Apache Cassandra, etc), Docker, C, C++, UNIX.

@@ -8,7 +8,7 @@
     company: "Amazon",
     dates: dates-helper(start-date: "Mar 2025", end-date: "Present"),
   )
-  - Currently on the Community Shopping organization, working on the backend infrastructure that supports the creation and management of customer reviews for Amazon Marketplace, Kindle, Alexa, FireTV, and more.
+  - Currently on the *Community Shopping organization*, working on the *backend infrastructure that supports the creation and management of customer reviews* for Amazon Marketplace, Kindle, Alexa, FireTV, and more.
 ]
 
 #let aws = [  
@@ -18,11 +18,11 @@
     company: "Amazon Web Services",
     dates: dates-helper(start-date: "Sep 2022", end-date: "Mar 2025"),
   )  
-  - Initially worked on the Issues team for AWS CodeCatalyst, in the AWS Code Suite department. Mainly worked on PartyRock, an LLM-powered tool that allows users to build AI-generated apps by providing a simple prompt.
-  - Part of the initial team that started the product from scratch and released it to production, growing the customer base, while mainly focusing on backend, infrastructure, and Ops tasks.
-  - Designed and implemented a scalable log exporting pipeline solution using the ETL pattern that automatically exports and processes logs from various sources, allowing the data to be visualized in platforms like AWS Athena and QuickSight. It has processed millions of logs since its deployment and has enabled product managers and engineers in the team to visualize metrics related to feature use and user retention, and to make important data-driven decisions.
-  - Led several projects and developed end-to-end features, from design and implementation to testing and metrics. Some projects include: implementing user deletion and preventing fraudulent accounts from re-registering; supporting text file uploads; refactoring and migrating our LLM communication layer to support new models and use the Amazon Bedrock Converse API, among others.
-  - Onboarded and mentored several new joiners, becoming their main point of contact during their initial time in the company.
+  - Initially worked on the *Issues team for AWS CodeCatalyst*, in the AWS Code Suite department. Mainly worked on #link("https://partyrock.aws/")[#strong("PartyRock")], an *LLM-powered tool that allows users to build AI-generated apps* by providing a simple prompt.
+  - Part of the initial team that started PartyRock from scratch and released it to production, growing the customer base, while mainly focusing on *backend, infrastructure, and Ops tasks*.
+  - *Designed and implemented a scalable log exporting pipeline solution* using the ETL pattern that automatically exports and processes logs from various sources, allowing the data to be visualized in platforms like AWS Athena and QuickSight. It has *processed millions of logs* since its deployment and has enabled product managers and engineers in the team to visualize metrics related to feature use and user retention, and to make important data-driven decisions.
+  - *Led several projects and developed end-to-end features*, from design and implementation to testing and metrics. Some projects include: implementing user deletion and preventing fraudulent accounts from re-registering; supporting text file uploads; refactoring and migrating our LLM communication layer to support new models and use the Amazon Bedrock Converse API, among others.
+  - *Onboarded and mentored several new joiners*, becoming their main point of contact during their initial time in the company.
 ]
 
 #let awsIntern = [
@@ -32,8 +32,8 @@
     company: "Amazon Web Services",
     dates: dates-helper(start-date: "Jun 2021", end-date: "Sep 2021"),
   ) 
-  - Worked on performance improvements for the Amazon Lookout for Metrics service.
-  - Decreased memory consumption of the training workflow by ~93% and allowed a potential throughput increase from 50K to 1M time series, by developing a pre-processing phase that converts datasets into a more efficient format.
+  - Worked on performance improvements for the *Amazon Lookout for Metrics* service.
+  - *Decreased memory consumption of the training workflow by \~93%* and allowed a *potential throughput increase from 50K to 1M time series*, by developing a pre-processing phase that converts datasets into a more efficient format.
   - Performed extensive testing and performance benchmarking in order to report execution times, memory consumption, and CPU usage.
 ]
 
@@ -44,9 +44,9 @@
     company: "INESC TEC",
     dates: dates-helper(start-date: "Fev 2020", end-date: "May 2021"),
   ) 
-  - Developed a platform to foster energy analytics for R&D institutions, by automating energy and weather data collection and management.
+  - Developed a platform to foster energy analytics for R&D institutions, by *automating energy and weather data collection and management*.
   - Automated energy data collection by making scripts that periodically fetch data from APIs of electricity data sources in Europe.
-  - Implemented missing values detection by developing a module that monitors DB with 130+ tables, each one with an average of 3 million rows.
+  - *Implemented missing values detection* by developing a module that *monitors DB with 130+ tables*, each one with an *average of 3 million rows*.
   - Allowed registered users to extract desired data by building an authentication layer and a REST API, and by helping create a user interface.
   - *Main technologies:* Python, Django, Pandas, Apache Cassandra, RabbitMQ, Celery, Nginx, Vue.js, Docker, GitLab CI/CD.
 ] 
