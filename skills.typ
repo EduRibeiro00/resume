@@ -1,0 +1,2 @@
+- *Proficient:* JavaScript, Python, C/C++, HTML/CSS, Java, Bash, R, Flutter, Dart
+- *Technologies*: React, Astro, Svelte, Tailwind CSS, Git, UNIX, Docker, Caddy, NGINX, Google Cloud Platform
