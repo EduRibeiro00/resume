@@ -1,2 +1,2 @@
 - *Fields:* Backend Engineering, Full Stack Engineering, Systems Architecture, Cloud Computing and Architecture (AWS), AI Engineering (LLMs and ML models), DevOps.
-- *Technologies*: Typescript, Node.js, React, Java, Python, AWS, SQL (Postgres, SQLite, etc), NoSQL (DynamoDB, Apache Cassandra, etc), Docker, C, C++, UNIX.
+- *Technologies*: Typescript, Node.js, React, Java, Python, AWS, SQL (Postgres, SQLite), NoSQL (DynamoDB, Apache Cassandra), Docker, C, C++, UNIX.
