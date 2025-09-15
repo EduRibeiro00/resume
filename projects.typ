@@ -6,7 +6,7 @@
     name: "Labcentric - Monitoring and Management System for Laboratories",
     dates: dates-helper(start-date: "Oct 2020", end-date: "Jun 2021"),
   ) 
-  - *Team leader* of a project developed for the *Dr. Ricardo Jorge National Health Institute*.
+  - *Team leader* of a project developed for the #link("https://www.insa.min-saude.pt/")[#strong("Dr. Ricardo Jorge National Health Institute")].
   - Developed a web app for management of reagents, samples, procedures and executions, results, and other important data for the institute.
   - Developed a system that monitors user actions during a lab procedure, by identifying QR Codes on reagents and recognizing voice commands.
   - Allowed users to configure input\/output devices that best suit their needs, by designing an extensible and scalable plugin-based architecture.

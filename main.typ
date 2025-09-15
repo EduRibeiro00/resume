@@ -44,12 +44,15 @@
 
 == Work Experience
 #list_entries(experience_list)
+#v(0.4em)
 
 == Education
 #list_entries(education_list)
+#v(0.4em)
 
 == Projects
 #list_entries(projects_list)
+#v(0.4em)
 
 == Skills
 #include "skills.typ"

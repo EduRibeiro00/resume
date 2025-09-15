@@ -12,6 +12,7 @@
     company: strong(company),
     location: strong(location)
   )
+  v(0em)
 }
 
 #let custom_edu_entry(
