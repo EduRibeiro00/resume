@@ -8,7 +8,7 @@
 #let email = "eribeiro306@gmail.com"
 #let github = "github.com/EduRibeiro00"
 #let linkedin = "linkedin.com/in/eduardocribeiro"
-#let personal-site = "TODO"
+#let personal-site = "eduardocribeiro.vercel.app"
 
 #show: resume.with(
   author: name,
@@ -20,7 +20,7 @@
   github: github,
   linkedin: linkedin,
   // phone: phone,
-  // personal-site: personal-site,
+  personal-site: personal-site,
   accent-color: "#26428b",
   font: "New Computer Modern",
   paper: "us-letter",
